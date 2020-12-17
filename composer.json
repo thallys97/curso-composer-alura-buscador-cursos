@@ -1,10 +1,10 @@
 {
-    "name": "cviniciussdias/buscador-cursos",
+    "name": "thallys97/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "authors": [
         {
-            "name": "thallys",
+            "name": "thallys97",
             "email": "thallysbandeira97@gmail.com"
         }
     ],
