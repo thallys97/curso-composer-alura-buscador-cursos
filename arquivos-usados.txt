@@ -1,6 +1,7 @@
 .phan\config.php
 src\Buscador.php
 tests\TestBuscadorDeCursos.php
+.gitignore
 buscar-cursos.php
 composer.json
 functions.php
